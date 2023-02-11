@@ -1,5 +1,5 @@
 # Size Generator
-Simple react app that returns a correct paper size needed to create a custom envelope for the Card Size in hand
+Simple react app that returns a correct paper size needed to create a custom envelope for any size of card in hand
 
 ```
 git clone https://github.com/szikaria961/size-gen.git
