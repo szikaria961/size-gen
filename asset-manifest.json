@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/size-gen/static/css/main.f6e0888b.css",
+    "main.js": "/size-gen/static/js/main.122e5a65.js",
+    "index.html": "/size-gen/index.html",
+    "main.f6e0888b.css.map": "/size-gen/static/css/main.f6e0888b.css.map",
+    "main.122e5a65.js.map": "/size-gen/static/js/main.122e5a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e0888b.css",
+    "static/js/main.122e5a65.js"
+  ]
+}
